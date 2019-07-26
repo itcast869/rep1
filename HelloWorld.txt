@@ -1,0 +1,10 @@
+public class HelloWorld{
+public static void main(String[] args){
+	system.out.println("你好，世界");
+}
+
+public static void show（）{
+	system.out.println("这是show方法");
+}
+	
+}
